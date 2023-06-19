@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <website>
     <title>Startseite</title>
-    <h1>Welcome</h1>
+    <div>
+        <author>Kevin Alexander Krefting</author>
+        <div>
+            <price>2,50€</price>
+        </div>
+    </div>
 </website>
